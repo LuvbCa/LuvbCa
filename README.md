@@ -1,9 +1,10 @@
-<h3 align="center" ><samp>Whats Poppin'? I am <b>Luca Mathaea</b></samp></h3>
-<h4 align="center"><samp>and i love <a href="https://www.youtube.com/watch?v=TiC8pig6PGE">refrigerators</samp></a></h2>
+
+
+<h3 align="center"><b>Luca Mathaea's Coding Kitchen :cook::stew: </b></h3>
+<h5 align="center">* i love <a href="https://www.youtube.com/watch?v=TiC8pig6PGE">refrigerators :chart_with_upwards_trend:</a></h2>
+<h5 align="center">currently working on few smaller projects!</h5>
 <p align="center"><br>
-  <samp>
-    ======%*%====== <br>
-    student in germany <br>
-    ======%*%======
-  </samp>
+	-----------------------  <br>
+    student 👨‍🎓 in germany 🇩🇪 <br>
+	----------------------- <br>
 </p>
